@@ -1,5 +1,5 @@
 import { View, Text } from 'react-native';
-import ClientSection from 'src/components/clientSection';
+import ClientSection from 'src/components/ClientSection';
 
 export default function HomePage() {
   return (
