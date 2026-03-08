@@ -6,7 +6,6 @@ import Hero from "../../components/Hero";
 export default function HomePage() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>Welcome to the Home Page!</Text>
       <Hero />
       <Text>Welcome to the Home Page!</Text>
       <Hello/>
